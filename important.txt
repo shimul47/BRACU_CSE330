@@ -1,0 +1,8 @@
+Practice Problem : https://docs.google.com/document/d/136wMu5dmk323HlL58XdnMPJUq0MjJh5TdgERVfDgt0A/edit?pli=1&tab=t.0#heading=h.szt2oakso7yi
+
+Protips:
+
+    There will be 3/4 question in CSE330--> Mid & Final
+    Quse-1 based on theory 
+    Ques-2 Formula Derivation - please understand and memorise each and every Derivation (Most Important)-->caries 20/30%
+    Ques-3 Mathematical
